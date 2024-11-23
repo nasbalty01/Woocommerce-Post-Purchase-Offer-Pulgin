@@ -1,0 +1,377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Purchase offer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-29 07:50+0000\n"
+"PO-Revision-Date: 2024-03-29 07:50+0000\n"
+"Last-Translator: Nasir Hussain\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: woo_addf_ppp"
+
+#: addify-post-purchase-offers.php:52 addify-post-purchase-offers.php:69
+#: admin/addify-post-purchase-offer-admin.php:182
+#: admin/addify-post-purchase-offer-admin.php:609
+msgid "Failed ajax security check!"
+msgstr "Error de ajax control de seguridad!"
+
+#: addify-post-purchase-offers.php:127
+msgid ""
+"Post purchase offer for WooCommerce plugin is inactive. WooCommerce plugin "
+"must be active in order to activate it."
+msgstr ""
+"Después de la compra de la oferta para el plugin de WooCommerce está "
+"inactivo. WooCommerce plugin debe estar activo para activarlo."
+
+#: addify-post-purchase-offers.php:157 addify-post-purchase-offers.php:158
+#: addify-post-purchase-offers.php:170
+#: admin/addify-post-purchase-offer-admin.php:213
+msgid "Post Purchase Offer"
+msgstr "Después De La Compra De La Oferta"
+
+#: addify-post-purchase-offers.php:159
+msgid "Add New Offer"
+msgstr "Agregar Nueva Oferta"
+
+#: addify-post-purchase-offers.php:160
+msgid "Add Offer"
+msgstr "Añadir Oferta"
+
+#: addify-post-purchase-offers.php:161
+msgid "Edit Offer"
+msgstr "Editar Oferta"
+
+#: addify-post-purchase-offers.php:162
+msgid "New Offer"
+msgstr "Nueva Oferta"
+
+#: addify-post-purchase-offers.php:163
+msgid "View Offer"
+msgstr "Ver Oferta"
+
+#: addify-post-purchase-offers.php:164
+msgid "Search Offer"
+msgstr "Búsqueda Ofrecer"
+
+#: addify-post-purchase-offers.php:166
+msgid "No rule found"
+msgstr "No hay ninguna regla se encuentra"
+
+#: addify-post-purchase-offers.php:167
+msgid "No Offer found in trash"
+msgstr "No hay Oferta encontrado en la basura"
+
+#: addify-post-purchase-offers.php:169
+msgid "All Offer"
+msgstr "Todos Ofrecen"
+
+#: admin/addify-post-purchase-offer-admin.php:83
+msgid "Post Purchase Offer Setting"
+msgstr "Publicar Oferta De Compra De Configuración"
+
+#: admin/addify-post-purchase-offer-admin.php:84
+msgid "Configure settings for post-purchase offers."
+msgstr "Configurar los ajustes de post-ofertas de compra."
+
+#: admin/addify-post-purchase-offer-admin.php:88
+msgid "Show/Hide Offer"
+msgstr "Mostrar/Ocultar La Oferta"
+
+#: admin/addify-post-purchase-offer-admin.php:94
+msgid "Enable to display the post-purchase offer, disable to hide it."
+msgstr ""
+"Habilite para mostrar la post-oferta de compra, deshabilitar para ocultarlo."
+
+#: admin/addify-post-purchase-offer-admin.php:99
+msgid "Prevent Coupons"
+msgstr "Evitar Los Cupones"
+
+#: admin/addify-post-purchase-offer-admin.php:105
+msgid ""
+"Enable to prevent coupons on post-purchase offer products, disable to allow "
+"coupons."
+msgstr ""
+"Habilitar para evitar que los cupones en el post-oferta de compra de "
+"productos, deshabilitar para permitir a los cupones."
+
+#: admin/addify-post-purchase-offer-admin.php:110
+msgid "Product Category"
+msgstr "Categoría De Producto"
+
+#: admin/addify-post-purchase-offer-admin.php:116
+msgid ""
+"Enable to display the categories on post-purchase offer products, disable to "
+"hide them."
+msgstr ""
+"Habilite para mostrar las categorías en el post-oferta de compra de "
+"productos, deshabilitar para ocultarlos."
+
+#: admin/addify-post-purchase-offer-admin.php:121
+msgid "Product Quantity"
+msgstr "Cantidad De Producto"
+
+#: admin/addify-post-purchase-offer-admin.php:127
+msgid ""
+"Enable to display the quantity on the post-purchase offer product, disable "
+"to hide it."
+msgstr ""
+"Habilite para mostrar la cantidad en el post-oferta de compra del producto, "
+"deshabilitar para ocultarlo."
+
+#: admin/addify-post-purchase-offer-admin.php:132
+msgid "Product Stock"
+msgstr "El Stock De Productos"
+
+#: admin/addify-post-purchase-offer-admin.php:138
+msgid ""
+"Enable to display the stock of the post-purchase offer product, disable to "
+"hide it."
+msgstr ""
+"Habilitar para mostrar el stock de la post-oferta de compra del producto, "
+"deshabilitar para ocultarlo."
+
+#: admin/addify-post-purchase-offer-admin.php:143
+msgid "Product Sku"
+msgstr "Sku De Producto"
+
+#: admin/addify-post-purchase-offer-admin.php:149
+msgid ""
+"Enable to display the quantity of the post-purchase offer product, disable "
+"to hide it."
+msgstr ""
+"Habilite para mostrar la cantidad de la post-oferta de compra del producto, "
+"deshabilitar para ocultarlo."
+
+#: admin/addify-post-purchase-offer-admin.php:153
+msgid "Product Description"
+msgstr "Descripción Del Producto"
+
+#: admin/addify-post-purchase-offer-admin.php:159
+msgid "Enable to show the post-purchase offer description, disable to hide it."
+msgstr ""
+"Activar para mostrar el post de compra-descripción de la oferta, "
+"deshabilitar para ocultarlo."
+
+#: admin/addify-post-purchase-offer-admin.php:163
+msgid "Product description Length"
+msgstr "Descripción del producto Longitud"
+
+#: admin/addify-post-purchase-offer-admin.php:168
+msgid "Lenght of post-purchase offer description."
+msgstr "Longitud de la post-compra descripción de la oferta."
+
+#: admin/addify-post-purchase-offer-admin.php:212
+msgid "Post Purchase Offer "
+msgstr "Después De La Compra De La Oferta"
+
+#: admin/addify-post-purchase-offer-admin.php:224
+msgid "Select Offer Product"
+msgstr "Seleccione Oferta De Productos"
+
+#: admin/addify-post-purchase-offer-admin.php:231
+msgid "Add Rule On Offer Products"
+msgstr "Agregar Regla En La Oferta De Productos"
+
+#: admin/addify-post-purchase-offer-admin.php:238
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/addify-post-purchase-offer-admin.php:277
+msgid "Description about post purchase offer"
+msgstr "Descripción acerca de publicar oferta de compra"
+
+#: admin/addify-post-purchase-offer-admin.php:293
+msgid "User Role"
+msgstr "El Papel De Usuario"
+
+#: admin/addify-post-purchase-offer-admin.php:302
+msgid "Select user roles..."
+msgstr "Seleccione las funciones de usuario..."
+
+#: admin/addify-post-purchase-offer-admin.php:319
+msgid "Display a post-purchase offer based on the user's roles."
+msgstr "Mostrar un post-oferta de compra basada en los roles del usuario."
+
+#: admin/addify-post-purchase-offer-admin.php:327
+msgid "Last order Status"
+msgstr "Último Estado de la orden de"
+
+#: admin/addify-post-purchase-offer-admin.php:336
+msgid "Select order statuses..."
+msgstr "Seleccione el fin de los estados de..."
+
+#: admin/addify-post-purchase-offer-admin.php:350
+msgid ""
+"Display a post-purchase offer when the selected statuses match the status of "
+"the user's last order."
+msgstr ""
+"Mostrar un post-oferta de compra cuando el seleccionado de estados coincidir "
+"con el estado del usuario de la última orden."
+
+#: admin/addify-post-purchase-offer-admin.php:357
+msgid "Country"
+msgstr "País"
+
+#: admin/addify-post-purchase-offer-admin.php:365
+msgid "Select countries..."
+msgstr "Seleccione países..."
+
+#: admin/addify-post-purchase-offer-admin.php:381
+msgid ""
+"Display a post-purchase offer when the selected countries match the user's "
+"country."
+msgstr ""
+"Mostrar un post-oferta de compra cuando los países seleccionados coinciden "
+"con los del país del usuario."
+
+#: admin/addify-post-purchase-offer-admin.php:389
+msgid "Categories in last order"
+msgstr "Categorías en el último fin de"
+
+#: admin/addify-post-purchase-offer-admin.php:408
+msgid "Select Categories..."
+msgstr "Seleccione Las Categorías..."
+
+#: admin/addify-post-purchase-offer-admin.php:425
+msgid ""
+"Display a post-purchase offer when the selected products match the products "
+"in the user's last order."
+msgstr ""
+"Mostrar un post-oferta de compra cuando los productos seleccionados "
+"correspondan a los productos que el usuario de la última orden."
+
+#: admin/addify-post-purchase-offer-admin.php:433
+msgid "Products in last order"
+msgstr "Productos en el último fin de"
+
+#: admin/addify-post-purchase-offer-admin.php:438
+#: admin/addify-post-purchase-offer-admin.php:507
+msgid "Select Products..."
+msgstr "Seleccionar Los Productos De..."
+
+#: admin/addify-post-purchase-offer-admin.php:451
+msgid ""
+"Display a post-purchase offer when the selected categories match the "
+"categories of products in the user's last order."
+msgstr ""
+"Mostrar un post-oferta de compra cuando las categorías seleccionadas se "
+"corresponden con las categorías de productos en el usuario la última orden."
+
+#: admin/addify-post-purchase-offer-admin.php:458
+msgid "Minimum previous total amount"
+msgstr "Mínimo anterior importe total"
+
+#: admin/addify-post-purchase-offer-admin.php:465
+msgid "Enter minimum previous total amount..."
+msgstr "Introduzca los valores mínimo anterior importe total..."
+
+#: admin/addify-post-purchase-offer-admin.php:467
+msgid ""
+"Display a post-purchase offer when the entered amount is equal to or greater "
+"than the user's previous total order amount."
+msgstr ""
+"Mostrar un post-oferta de compra cuando el importe introducido es mayor o "
+"igual que el usuario anterior de la cantidad total del pedido."
+
+#: admin/addify-post-purchase-offer-admin.php:472
+msgid "Minimum last purchase amount"
+msgstr "Mínimo de la última compra, cantidad"
+
+#: admin/addify-post-purchase-offer-admin.php:480
+msgid "Enter minimum last purchase amount..."
+msgstr "Introduzca mínimo de la última compra, cantidad..."
+
+#: admin/addify-post-purchase-offer-admin.php:503
+msgid "Select offer products"
+msgstr "Seleccione oferta de productos"
+
+#: admin/addify-post-purchase-offer-admin.php:522
+msgid "Select products to include in the post-purchase offer."
+msgstr "Seleccione los productos a incluir en el post-oferta de compra."
+
+#: admin/addify-post-purchase-offer-admin.php:672
+#: admin/addify-post-purchase-offer-admin.php:706
+msgid "Sorry, your nonce did not verify."
+msgstr "Lo sentimos, tu nonce no verificar."
+
+#: front/addify-post-purchase-offer-front.php:631
+msgid "in stock"
+msgstr "en stock"
+
+#: front/addify-post-purchase-offer-front.php:634
+msgid "Out of stock"
+msgstr "Fuera de stock"
+
+#: front/addify-post-purchase-offer-front.php:636
+msgid "Available on backorder"
+msgstr "Disponible en pedido pendiente"
+
+#: front/addify-post-purchase-offer-front.php:638
+msgid "Stock status unknown"
+msgstr "El estado del Stock de desconocido"
+
+#: front/addify-post-purchase-offer-front.php:655
+msgid "SKU"
+msgstr "SKU"
+
+#: front/addify-post-purchase-offer-front.php:659
+msgid "Category"
+msgstr "Categoría"
+
+#: front/addify-post-purchase-offer-front.php:668
+msgid "Accept Offer"
+msgstr "Aceptar La Oferta"
+
+#: front/addify-post-purchase-offer-front.php:669
+msgid "Skip"
+msgstr "Skip"
+
+#: front/addify-post-purchase-offer-front.php:670
+msgid "Skip All"
+msgstr "Saltar Todos"
+
+#: front/addify-post-purchase-offer-front.php:671
+msgid "Skip Remaining Offers"
+msgstr "Omita El Resto De Ofertas"
+
+#: front/addify-post-purchase-offer-front.php:682
+msgid "Processing..."
+msgstr "Procesamiento de..."
+
+#: front/addify-post-purchase-offer-front.php:698
+msgid "% OFF)"
+msgstr " %d e descuento)"
+
+#: front/addify-post-purchase-offer-front.php:701
+msgid "(Fixed Discount)"
+msgstr "(Descuento Fijo)"
+
+#: front/addify-post-purchase-offer-front.php:704
+msgid "(Fixed Price)"
+msgstr "(Precio Fijo)"
+
+#. Name of the plugin
+msgid "Post Purchase offer"
+msgstr "Después de la Compra de la oferta"
+
+#. Description of the plugin
+msgid "Post Purchase offer for WooCommerce."
+msgstr "Después de la Compra de la oferta de WooCommerce."
+
+#. URI of the plugin
+msgid "https://woocommerce.com/products/post-purchase-offer-for-woocommerce/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Addify"
+msgstr "Addify"
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com/vendor/addify/"
+msgstr ""

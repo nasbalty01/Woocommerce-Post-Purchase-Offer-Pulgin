@@ -1,0 +1,5 @@
+*** Post Purchase Offer Change log ***
+
+
+2024-04-08 - version 1.0.0
+***Initial release of the plugin***

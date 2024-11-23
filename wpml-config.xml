@@ -1,0 +1,19 @@
+
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1" display-as-translated="1">post_purchase_offer</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="translate">addf_prc_product</custom-field>
+    <custom-field action="translate">addf_offer_product</custom-field>
+    <custom-field action="translate">addf_prc_categories</custom-field>
+    <custom-field action="translate">user_roles_select</custom-field>
+    <custom-field action="translate">user_countries_select</custom-field>
+    <custom-field action="translate">order_statuses_select</custom-field>
+    <custom-field action="translate">previous_total_amount</custom-field>
+    <custom-field action="translate">last_purchase_amount</custom-field>
+    <custom-field action="translate">offer_description</custom-field>
+    <custom-field action="translate">post_purchase_select_products</custom-field>
+    <custom-field action="translate">discount_type</custom-field>
+  </custom-fields>
+</wpml-config>

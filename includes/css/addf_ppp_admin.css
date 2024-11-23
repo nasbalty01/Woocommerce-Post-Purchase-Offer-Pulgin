@@ -1,0 +1,160 @@
+.addf_prc_table{
+    width: 100%;
+}
+
+.addf_prc_price_table_table_pl th,
+.addf_prc_price_table_table_var_l th{
+    background-color: rgb(236, 236, 236);
+}
+.addf_prc_price_table_table_pl , 
+.addf_prc_price_table_table_var_l{
+    width: 100%;
+    text-align: center;
+    border: 1px solid rgb(201, 201, 201);
+}
+.addf_prc_price_table_table_pl td,
+.addf_prc_price_table_table_var_l td{
+    /* padding-left: 10px; */
+    text-align: center;
+}
+.addf_prc_table_add_new_btn{
+    margin-bottom: 40px;
+}
+.addf_prc_div{
+    width: 100%;
+}
+.addf_prc_pl_input_tbl{
+    width: 100% !important; 
+}
+.addf_prc_pl_input_tbl_var_l{
+    max-width: 80px !important;
+    /* width: 100%; */
+}
+.addf_prc_var_l_div{
+    width: 100%;
+}
+.align_right{
+    padding: 5px;
+    padding-right: 20px;
+    text-align: right;
+}
+.addf_prc_heading{
+    font-size: 14px !important;
+    font-weight: 600 !important;
+}
+.addf_prc_input{
+    width: 50% !important;
+    box-shadow: none;
+}
+.addf_prc_text-td{
+    width: 30%;
+}
+.addf_prc_all_cats{
+    margin-top: 20px;
+    width: 70%;
+    max-height: 600px;
+    overflow-y: auto;
+    border:  1px solid rgba(151, 149, 149, 0.795);
+}
+.addf_prc_par_cat{
+    padding-left: 10px;
+}
+.addf_prc_child_cat{
+    padding-left: 20px;
+}
+.addf_prc_input_field{
+    width: 40%;
+}
+.addf_prc_min_max{
+    width: 150px !important;
+}
+.addf_prc_child_table{
+    padding: 0;
+    width: 100%;
+}
+.addf_prc_tiles_product_level{
+    width: 100%;
+}
+.addf_prc_tiles_product_level th{
+    width: 36%;
+    text-align: left;
+}
+.addf_prc_table_pl_rule{
+    width: 100%;
+}
+
+.addf_prc_table_pl_rule tr td:first-child ,
+.addf_prc_child_table tr td:first-child ,
+.addf_prc_table tr td:first-child { 
+    width: 28%;
+    padding: 0 4px;
+}
+.addf_prc_pl_input{
+    width: 50% !important;
+}
+.full_width{
+    width: 100%;
+}
+.addf_prc_border{
+    border-bottom: 1px solid rgba(201, 199, 199, 0.795);
+}
+
+.addf_prc_price_table_table_var_l td input{
+    min-width: 168px !important;
+}
+.addf_prc_table_for_variation{
+    width: 100%;
+}
+.addf_prc_gen_tab{
+    color: black;
+}
+.addf_prc_all_btn{
+    cursor: pointer;
+}
+.addf_prc_all_btn:hover{
+    color: black;
+}
+
+
+  /* Basic styling for the table my css */
+
+
+.responsive-table input{
+    max-width: 100%;
+}
+
+
+
+
+/*delete button css*/
+  .delete-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+/*add button css*/
+  .add_options{
+   background: #2271b1;
+    color: white;
+    border: none;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+.offer-description-editor {
+ width: 100% !important;
+}
